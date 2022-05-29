@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286203479122",
+    "firebase_url": "https://njmlha-project-default-rtdb.firebaseio.com",
+    "project_id": "njmlha-project",
+    "storage_bucket": "njmlha-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286203479122:android:e53ce5d43ecf3bf8f4cb8b",
+        "android_client_info": {
+          "package_name": "com.example.NJMLHA"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286203479122-eje9s09bei4ujv12ig33003obc0g1qo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QJ-m_wAASY7J678d_eDqXQqFQMeEssA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286203479122-eje9s09bei4ujv12ig33003obc0g1qo4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "286203479122-hqaolnh95a8atlasmnns6cm87ba6c2dm.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.NJMLHA"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
